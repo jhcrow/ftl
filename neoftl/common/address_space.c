@@ -3,6 +3,7 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include <sys/mman.h>
+#include <asdf.h>
 
 #include "address_space.h"
 #include "common/cosmos_plus_memory_map.h"
